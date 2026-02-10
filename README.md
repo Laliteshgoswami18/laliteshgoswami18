@@ -7,7 +7,7 @@ Hi,  I’m passionate about analyzing data and building impactful dashboards.
 
 ## 🛠 Tech Stack
 **Tools & Technologies:**
-- 🟢 Microsoft Excel   📊 Microsoft Power BI   📈 Tableau  🗄 Microsoft SQL Server   🐬 MySQL   📉 Data Visualization   📋 Pivot Table   🧩 Data Modeling  ⚡ DAX 
+- 🟢 Microsoft Excel   📊 Microsoft Power BI   📈 Tableau  🗄 Microsoft SQL Server   🐬 MySQL   
 
 ## 🌐 Connect With Me
 
