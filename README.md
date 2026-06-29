@@ -1,6 +1,6 @@
 # laliteshgoswami18
 
-### 📊 Data Insights Analyst
+### 📊 Business Insights Analyst
 
 Welcome to my GitHub profile!
 Hi,  I’m passionate about analyzing data and building impactful dashboards.
