@@ -1,8 +1,6 @@
 # Hi, I'm Lalitesh Goswami 👋
 
-### 📊 Data Analyst
-
-Welcome to my digital workspace! 
+Welcome to my digital workspace! 📊
 
 Hi! I’m a Data Analyst obsessed with data storytelling. Armed with Microsoft Excel, Microsoft Power BI, MySQL, and Python I transform complex numbers into sleek, high-impact dashboards and clear insights. 📊
 
@@ -10,7 +8,7 @@ Hi! I’m a Data Analyst obsessed with data storytelling. Armed with Microsoft E
 
 ## 🛠 Tech Stack
 **Tools & Technologies:**
-- 🟢 Microsoft Excel, 📊 Microsoft Power BI, 🗄 Microsoft SQL Server, 🐬 MySQL, 🐍 Python.
+- 🟢 Microsoft Excel, 🟡 Microsoft Power BI, 🗄 Microsoft SQL Server, 🐬 MySQL, 🐍 Python.
 
 ## 🌐 Connect With Me
 
