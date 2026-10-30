@@ -1,13 +1,16 @@
-# laliteshgoswami18
+# Hi, I'm Lalitesh Goswami 👋
 
-### 📊 Business Insights Analyst
+### 📊 Data Analyst
 
-Welcome to my GitHub profile!
-Hi,  I’m passionate about analyzing data and building impactful dashboards.
+Welcome to my digital workspace! 
+
+Hi! I’m a Data Analyst obsessed with data storytelling. Armed with Microsoft Excel, Microsoft Power BI, MySQL, and Python I transform complex numbers into sleek, high-impact dashboards and clear insights. 📊
+
+🎯 Explore my projects below, star your favorites, and let’s connect!
 
 ## 🛠 Tech Stack
 **Tools & Technologies:**
-- 🟢 Microsoft Excel   📊 Microsoft Power BI 🗄 Microsoft SQL Server   🐬 MySQL   
+- 🟢 Microsoft Excel, 📊 Microsoft Power BI, 🗄 Microsoft SQL Server, 🐬 MySQL, 🐍 Python.
 
 ## 🌐 Connect With Me
 
