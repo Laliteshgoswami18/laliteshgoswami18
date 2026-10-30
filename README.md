@@ -8,7 +8,7 @@ Hi! I’m a Data Analyst obsessed with data storytelling. Armed with Microsoft E
 
 ## 🛠 Tech Stack
 **Tools & Technologies:**
-- 🟢 Microsoft Excel, 🟡 Microsoft Power BI, 🗄 Microsoft SQL Server, 🐬 MySQL, 🐍 Python.
+- 🟢 Microsoft Excel, 🟡 Microsoft Power BI, 🗄 Microsoft SQL Server, 🐬 MySQL,   🐍 Python.
 
 ## 🌐 Connect With Me
 
